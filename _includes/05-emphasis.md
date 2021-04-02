@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__I am *bold* now__ normal
+**This _also_ works** newline
+*Lemmi try **this*** yay
